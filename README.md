@@ -17,3 +17,5 @@ Then it starts the installation process, which needs to be manually completed by
 
 - **i**: skips the Installation dialog.
 - **d**: skips the Download dialog.
+
+**Note:** for sake of simplicity, I have included in the release assets an executable version that you can download and run.
